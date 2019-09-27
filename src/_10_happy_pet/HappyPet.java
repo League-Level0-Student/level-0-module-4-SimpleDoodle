@@ -25,7 +25,7 @@ public class HappyPet {
 
 		// 6. If you determine the happiness level is large enough, tell the
 		// user that he loves his pet and use break; to exit for loop.
-		for (int i = 0; i < 21; i++) {
+		for (int i = 0; i < 5; i++) {
 			int task = JOptionPane.showOptionDialog(null,
 					"Do you want to cuddle, feed, water, walk, groom, or clean up the poop?", "Title", 0,
 					JOptionPane.INFORMATION_MESSAGE, null,
